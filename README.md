@@ -12,11 +12,13 @@ software-related fields where I can grow professionally and add value.
 
 ## What You’ll Find in This Portfolio
 This portfolio contains projects that demonstrate:
+
 🌐 Web Development Projects
 Responsive websites built using HTML, CSS, and JavaScript
 UI/UX-focused designs
 Portfolio websites and business-style web applications
 Frontend functionality and layout optimization
+
 📊 Data Analysis Projects
 SQL-based data querying and database management
 Excel dashboards and data modeling
